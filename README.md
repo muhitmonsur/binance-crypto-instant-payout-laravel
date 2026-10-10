@@ -2,8 +2,10 @@
 [![Total Downloads](https://poser.pugx.org/payerurl/binance-and-crypto-checkout/downloads)](https://packagist.org/packages/payerurl/binance-and-crypto-checkout)
 [![License](https://poser.pugx.org/payerurl/binance-and-crypto-checkout/license)](https://packagist.org/packages/payerurl/binance-and-crypto-checkout)
 # 🪙 Binance & Crypto Payment Gateway for Laravel
+Laravel SDK to connecting payerurl API . 
 
-> Accept Bitcoin, USDT, USDC, ETH, and Binance payments directly into your wallet — no middleman, no merchant account, no KYC required.
+> By using this API Receive customer payments directly and instantly in your crypto wallet. Accept BTC, ETH, USDT, and USDC from customers across all major networks.
+> Accept payment using your binance regular account QR code payment (C2C).
 
 **Powered by [PayerURL](https://payerurl.com)** — the direct-to-wallet crypto payment processor for Laravel developers.
 
