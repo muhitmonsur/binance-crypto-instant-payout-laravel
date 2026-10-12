@@ -252,7 +252,7 @@ Your Wallet ← Funds (instant) ← Payment Verified ← Blockchain
 
 ---
 
-## 🛒 WooCommerce Plugin: ABC Crypto Checkout
+## 🛒 Description
 
 This SDK, powered by [PayerURL](https://payerurl.com), is a **non-custodial** crypto payment gateway that connects WooCommerce directly to your wallets. Payments receive in your wallet instantly, with no middlemen.
 
