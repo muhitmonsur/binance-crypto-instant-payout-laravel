@@ -8,11 +8,12 @@
         "bitcoin",
         "crypto payment",
         "coinbase",
-        "paypal",
-        "ethereum",
         "binance payment",
         "payment gateway",
-        "crypto"
+        "crypto",
+        "best crypto payment gateway",
+        "fiat to crypto payment gateway",
+        "cryptocurrency payment gateway"
     ],
     "type": "package",
     "license": "MIT",
